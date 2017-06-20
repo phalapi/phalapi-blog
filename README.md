@@ -1,2 +1,2 @@
-# phalapi-blog
-基于PhalApi+VUE的开源博客系统。
+# PhalApi-Blog开源博客系统
+基于PhalApi+Vue.js的开源博客系统。
